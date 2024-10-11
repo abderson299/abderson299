@@ -1,5 +1,16 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💙
+meu nome é anderson felipe
 
-<!--
-**abderson299/abderson299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-video game computador andar de bicicleta 
+
+- Estou estudando na alura;
+-Estou me desenvolvendo na linguagem javacript
+- Utilizo esse espaço para minha organização e compartilhamento dos  meus projetos desenvolvios
+
+  ### você entrar em contato comigo 📫
+
+  anderson.arche.souza@escola.pr.gov.br
+
+  @abderson299
+
+
+  https://media1.tenor.com/m/Meo6YUeN6OkAAAAC/kachow-cars.gif
